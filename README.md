@@ -1,8 +1,8 @@
 ### Hi there 👋  
 This is my GnuPG key
-<iframe
-  src="https://raw.githubusercontent.com/Plaza521/Plaza521/master/publickey.asc?token=GHSAT0AAAAAACC4KBPXW4FV3CVYYVHBZEP6ZDN4HCA"
-></iframe>
+```text:https://raw.githubusercontent.com/Plaza521/Plaza521/master/publickey.asc?token=GHSAT0AAAAAACC4KBPXW4FV3CVYYVHBZEP6ZDN4HCA
+
+```
 
 <!--
 **Plaza521/Plaza521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
