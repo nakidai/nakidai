@@ -1,6 +1,6 @@
 ### Hi there 👋  
 This is my GnuPG key
-```text:https://raw.githubusercontent.com/Plaza521/Plaza521/master/publickey.asc?token=GHSAT0AAAAAACC4KBPXW4FV3CVYYVHBZEP6ZDN4HCA
+```text:publickey.asc
 
 ```
 
