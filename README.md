@@ -1,5 +1,5 @@
 ### Hi there 👋  
-This is my GnuPG key
+This is my PGP key
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
