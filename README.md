@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-Contacts:
+Contacts:  
 [Discord](https://discordapp.com/users/596659213124763649)  
 [Matrix](https://matrix.to/#/@nakidai:matrix.org)  
 
