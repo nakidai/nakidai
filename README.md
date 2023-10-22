@@ -5,6 +5,7 @@ Contacts:
 [Matrix](https://matrix.to/#/@nakidai:matrix.org)  
 
 PGP Key:
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGUtm1UBEAC5WCwbpI/4a+sVxNMGcK3i2gMf5EPK8V0N4nEuEkyp215fC+MZ
@@ -56,3 +57,4 @@ NrpOA+Qe7Pxv3zYqZD0IZkMBwcydctBns26VklXLDaYLwS9zGBKX6sj+vNj+nGUE
 a2+j2jnv2wxsVc2Bt7SW2dp8WdH32FqKR38YY47+FaQovFcAkV5/8kvHJpc=
 =5zAJ
 -----END PGP PUBLIC KEY BLOCK-----
+```
