@@ -1,10 +1,15 @@
 ### Hi there 👋  
-
-Contacts:  
-[Discord](https://discordapp.com/users/596659213124763649)  
-[Matrix](https://matrix.to/#/@nakidai:matrix.org)  
-
-Key for signing:
+# Contacts
+[![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/596659213124763649)
+[![](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)](https://matrix.to/#/@nakidai:matrix.org)  
+----------
+# Stats
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nakidai&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nakidai&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nakidai&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-trophy.vercel.app/?username=nakidai&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy?tab=readme-ov-file#apply-theme)
+----------
+# Key for signing
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Comment: Nakidai <plaza521@inbox.ru>
