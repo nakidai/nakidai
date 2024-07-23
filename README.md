@@ -4,10 +4,10 @@
 [![](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)](https://matrix.to/#/@nakidai:matrix.org)  
 ----------
 # Stats
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nakidai&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nakidai&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nakidai&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-profile-trophy.vercel.app/?username=nakidai&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy?tab=readme-ov-file#apply-theme)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nakidai&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nakidai&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nakidai&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-trophy.vercel.app/?username=nakidai&theme=github_dark)](https://github.com/ryo-ma/github-profile-trophy?tab=readme-ov-file#apply-theme)
 ----------
 # Key for signing
 ```
